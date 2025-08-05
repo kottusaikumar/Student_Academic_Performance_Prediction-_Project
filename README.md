@@ -211,9 +211,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📧 Contact
 
-Your Name - [Kottu.saikumar](kottusaikumar@2003) - email@example.com
+Your Name - [kottusaikumar@2003](kottusaikumar@2003) - email@example.com
 
-Project Link: [https://github.com/yourusername/student-performance-prediction](https://github.com/yourusername/student-performance-prediction)
+Project Link: [https://github.com/kottusaikumar/Student_Academic_Performance_Prediction-_Project)
 
 ---
 
