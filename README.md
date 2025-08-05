@@ -91,7 +91,7 @@ models = {
 
 | Subject | Best Model | R² Score | MAE | RMSE |
 |---------|------------|----------|-----|------|
-| **Mathematics** | Random Forest | 0.184 | 3.36 | 4.09 |
+| **Mathematics** | Random Forest | 0.3349| 2.9551 |3.6929|
 | **Portuguese** | Random Forest | 0.216 | 2.01 | 2.77 |
 
 ### 🎯 Top Predictive Features
